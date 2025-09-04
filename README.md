@@ -1,12 +1,8 @@
 # IBM Data Science Professional Certificate 🧠📊
 
-This repository contains my work for the **IBM Data Science Professional Certificate** offered on **Coursera**. It includes Jupyter notebooks, labs, quizzes, and projects from all **12 courses** in the program.
+This repository contains my work for the **IBM Data Science Professional Certificate** offered on **Coursera**. 
 
 ---
-
-## 🎓 About the Program
-
-> The IBM Data Science Professional Certificate is a beginner-friendly, 12-course series designed to prepare one for a career in data science or machine learning. They learn Python, SQL, data analysis, visualization, and machine learning, and work with real tools and datasets.
 
 📍 Program link: [IBM Data Science on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
